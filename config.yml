@@ -1,0 +1,5 @@
+mongo:
+  connections:
+    example:
+      type: 'uri'
+      uri: mongodb://localhost:27017
